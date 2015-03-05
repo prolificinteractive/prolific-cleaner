@@ -1,0 +1,10 @@
+{
+  "preset": "crockford",
+  "validateIndentation": 2,
+  "disallowTrailingComma": null,
+  "requireMultipleVarDecl": null,
+  "disallowDanglingUnderscores": null,
+  "requireBlocksOnNewline": 1,
+  "requireDotNotation": null,
+  "disallowKeywordsOnNewLine": null
+}
