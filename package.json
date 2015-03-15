@@ -13,6 +13,6 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "lintlovin": "git+https://github.com/prolificinteractive/lintlovin.git#conor/develop"
+    "lintlovin": "~1.15.0"
   }
 }
